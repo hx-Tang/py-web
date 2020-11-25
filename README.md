@@ -1,11 +1,11 @@
-# SERVER
+# insight购机指南/销售指南 微信小程序服务器端 python-flask项目
 
 ## 概述
 insight购机指南/销售指南 微信小程序
 python flask 后端
 URL：www.buptdachuang2019.top/
 
-note：项目结束，后端暂停服务
+note：项目结束，后端停止服务
 
 ## 目录结构
 
